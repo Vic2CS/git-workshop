@@ -1,4 +1,4 @@
 # git-workshop
 
 Hello! Add whatever you want to see!
-Yay
+whatever you want to see!
